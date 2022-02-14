@@ -20,6 +20,7 @@ pipeline {
       steps {
         
         echo "testing the application..... "
+        echo "new test"
       
      
       }
